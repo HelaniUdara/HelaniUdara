@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Helani Seekkubadu</h1>
-<h3 align="center">I am a motivated and dedicated 3rd-year undergraduate at the University of Kelaniya. Possesses excellent time management, teamwork, and communication skills. A fast learner who thrives in dynamic environments and adapts quickly to new challenges and technologies.</h3>
+<h3 align="center">I am a motivated and dedicated Software Engineering undergraduate at the University of Kelaniya. Possesses excellent time management, teamwork, and communication skills. A fast learner who thrives in dynamic environments and adapts quickly to new challenges and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=helaniudara&label=Profile%20views&color=0e75b6&style=flat" alt="helaniudara" /> </p>
 
