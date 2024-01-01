@@ -17,5 +17,5 @@ I am a motivated and dedicated Software Engineering undergraduate at the Univers
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelaniUdara&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <br><br>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=helaniudara&label=Profile%20views&color=0e75b6&style=flat" alt="helaniudara" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
