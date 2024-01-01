@@ -16,7 +16,7 @@ I am a motivated and dedicated Software Engineering undergraduate at the Univers
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=HelaniUdara&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
  <br /><br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelaniUdara&hide_border=true&theme=dark" alt="GitHub Streak" align="center" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelaniUdara&hide_border=true&theme=react" alt="GitHub Streak" align="center" />
  <br /><br />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelaniUdara&theme=react&hide_border=true&layout=compact" alt="Top Languages" align="center" />
 </p>
