@@ -14,7 +14,7 @@ I am a motivated and dedicated Software Engineering undergraduate at the Univers
 <a href="https://medium.com/@udarahseekku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@udarahseekku" height="30" width="40" /></a>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=HelaniUdara&theme=react&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" align="center" />
+ <img src="https://github-readme-stats.vercel.app/api?username=HelaniUdara&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" align="center" />
  <br /><br />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelaniUdara&hide_border=true&theme=react" alt="GitHub Streak" align="center" />
  <br /><br />
